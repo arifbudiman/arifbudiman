@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://badges.lastfm.workers.dev/last-played?user=arifbudiman&color=blue)
+![https://www.last.fm/user/arifbudiman](https://badges.lastfm.workers.dev/last-played?user=arifbudiman&color=blue)
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=arifbudiman&show_icons=true&theme=onedark" /></p>
