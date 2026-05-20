@@ -13,5 +13,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![](https://badges.lastfm.workers.dev/last-played?user=arifbudiman&style=for-the-badge)](https://www.last.fm/user/arifbudiman)
-
-<img src="https://github-readme-stats.vercel.app/api?username=arifbudiman&show_icons=true&theme=onedark" />
